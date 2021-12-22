@@ -8,7 +8,7 @@ This agent is designed to run as a small, self-contained app on [Heroku](https:/
 
 This agent is designed to work with libraries like [instafeed.js](https://github.com/stevenschobert/instafeed.js) which need a valid token to operate. These tokens need to be periodically refreshed - **Instagram Token Agent** takes care of that for you.
 
-## You will need
+## You will need 
 
 To begin, you'll need the following:
 
